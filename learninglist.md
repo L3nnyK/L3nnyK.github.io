@@ -2,6 +2,10 @@
 
 - [ ] Githubpages
 - [ ] Complete Udemy Python Course
+- [ ] Learning the accordion
+- [ ] AI Vibe Coding an ITAM tool
+- [ ] CISM
+- [ ] CISSP
 
 - [ ] Learn GO Lang
 [https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/](https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/)
